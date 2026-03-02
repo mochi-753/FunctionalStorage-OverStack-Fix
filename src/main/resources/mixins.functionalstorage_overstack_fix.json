@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.mochi_753.functionalstorage_overstack_fix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.functionalstorage_overstack_fix.refmap.json",
+  "mixins": [
+    "ItemControllableDrawerTileMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
