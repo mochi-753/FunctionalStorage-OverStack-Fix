@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "com.mochi_753.functionalstorage_downgrade_fix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.functionalstorage_downgrade_fix.refmap.json",
+  "mixins": [
+    "ItemControllableDrawerTileMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8",
+  "mixinextras": {
+    "minVersion": "0.5.3"
+  }
+}
